@@ -1,3 +1,11 @@
+#Instructions
+Download code or fork repo
+Navigate to folder containing manage.py on console
+Run command python manage.py runserver to start the environment
+Paste the host address on browser.
+
+
+
 # MusicApp
 Then run the following to install the required packages:
 
