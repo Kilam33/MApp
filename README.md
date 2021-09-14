@@ -1,17 +1,20 @@
 #Instructions
-Download code or fork repo
-Navigate to folder containing manage.py on console
-Run command python manage.py runserver to start the environment
-Paste the host address on browser.
 
-
-
-# MusicApp
-Then run the following to install the required packages:
+# Run the following to install the required packages:
 
 pip install django
 pip install pillow
 The pillow package is a Python image handling library which we’ll use to save cover images for the music in the database.
+
+Download code or fork repo
+
+Navigate to folder containing manage.py on console
+
+Run command python manage.py runserver to start the environment
+
+Paste the host address on browser.
+
+
 
 # Django ORM
 Object-Relational Mapping (ORM) is a method that helps you question and control statistics from a database, the use of an object-orientated paradigm.
